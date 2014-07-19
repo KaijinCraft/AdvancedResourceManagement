@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AdvResMan",
+  "name": "Advanced Resource Management",
+  "description": "This mod is designed to help you efficiently manage your energy and resources.",
+  "mcversion": "${mcversion}",
+  "version": "${version}",
+  "logoFile": "",
+  "screenshots": [ ],
+  "url": "http://www.kaijin.com/",
+  "updateUrl": "",
+  "authors": [ "Pantheis", "Tallinu" ],
+  "credits": "",
+  "dependencies": [ ]
+}
+]
