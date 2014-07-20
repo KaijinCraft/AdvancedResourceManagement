@@ -64,7 +64,7 @@ any restrictions.
 This mod may only be distributed where uploaded, mirrored, or otherwise linked
 to by the owner. All other distribution of this mod, with the exception of
 modpacks, must have advance written permission from the owner. Please see
-https://github.com/pantheis/AdvancedPowerManagement/wiki/Modpacks for modpack
+https://github.com/KaijinCraft/AdvancedResourceManagement/wiki/Modpacks for modpack
 specific distribution requirements.
 
 6. Commercial Purposes
